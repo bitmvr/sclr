@@ -6,7 +6,8 @@
 
 1. Clone or Download `sclr`
 2. Add `sclr` to your path.
-- I recommend installing or symlinking `sclr` to `sclr` in `/usr/local/bin/`
+
+**Recommendation**: Move or Symlink `sclr` to `/usr/local/bin/`
 
 ## Usage
 
