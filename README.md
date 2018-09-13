@@ -2,6 +2,12 @@
 
 `sclr` allows your to modify the size of your terminal with easy commands.
 
+## Install
+
+1. Clone or Download `sclr`
+2. Add `sclr` to your path.
+-- I recommend installing or symlinking `sclr` to `sclr` in `/usr/local/bin/`
+
 ## Usage
 
 ```
