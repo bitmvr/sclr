@@ -1,6 +1,6 @@
 # SCLR - Simple Command Line Rescaler
 
-`sclr` allows your to modify the size of your terminal with easy commands.
+`sclr` allows one to modify the size of their terminal with one easy command.
 
 ![](https://github.com/bitmvr/sclr/blob/master/media/sclr.gif)
 
