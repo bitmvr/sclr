@@ -32,6 +32,9 @@ case "$1" in
     -l|--large)
 		printf "$large" && clear
 	;;
+    -x|--xlarge)
+		printf "$xlarge" && clear
+	;;
     -h|--help)
 		sclr::usage
 	;;
