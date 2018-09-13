@@ -2,6 +2,8 @@
 
 `sclr` allows your to modify the size of your terminal with easy commands.
 
+![](https://github.com/bitmvr/sclr/blob/master/media/sclr.gif)
+
 ## Install
 
 1. Clone or Download `sclr`
