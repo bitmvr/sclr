@@ -9,11 +9,11 @@ sclr::usage(){
 	echo ""
 	echo "$(basename "$0") - Simple Command Line Rescaler"
 	echo ""
-	echo "  -s | --small   Rescales command line window to small"
-	echo "  -m | --medium  Rescales command line window to medium"
-	echo "  -l | --large   Rescales command line window to large"
+	echo "  -s | --small    Rescales command line window to small"
+	echo "  -m | --medium   Rescales command line window to medium"
+	echo "  -l | --large    Rescales command line window to large"
 	echo "  -x | --x-large  Rescales command line window to extra large"
-	echo "  -h | --help    Displays this text"
+	echo "  -h | --help     Displays this text"
 	echo ""
 }
 
