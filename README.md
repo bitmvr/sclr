@@ -25,3 +25,5 @@ sclr - Simple Command Line Rescaler
 
 ```
 
+A [Native Productivity](https://nativeproductivity.com) Tool by [Bitmvr Industries](https://bitmvr.com)
+
